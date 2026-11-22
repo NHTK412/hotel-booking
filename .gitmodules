@@ -1,0 +1,9 @@
+[submodule "hotel-booking-app"]
+	path = hotel-booking-app
+	url = https://github.com/NHTK412/hotel-booking-app.git
+[submodule "hotel-booking-be"]
+	path = hotel-booking-be
+	url = https://github.com/NHTK412/hotel-booking-be.git
+[submodule "hotel-booking-fe"]
+	path = hotel-booking-fe
+	url = https://github.com/NHTK412/hotel_booking_fe.git
